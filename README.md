@@ -13,13 +13,13 @@
  
 <div align="center">
   <a href="mailto:ifannn502@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/BEN00262/whatsapp-embed-icon/icons/wa.svg" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://wa.me/6285217234457">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/whatsapp-%2317ad1e.svg?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/fanmsz65">
-    <img src="https://img.icons8.com/?size=52&id=nj0Uj45LGUYh&format=png" alt="Instagram Logo" />
+    <img src="https://img.shields.io/badge/instagram-%2397169e.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
 
