@@ -8,10 +8,6 @@
 <br/>
 
 <div align="center">
- 
-🌱 I'm focusing on **honing my skills in information technology**
-
-⚡ Interesting facts **I love exploring new technologies and learning about them**
 
  </div>
  
