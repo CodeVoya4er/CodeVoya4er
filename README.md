@@ -17,7 +17,7 @@
  
 <div align="center">
   <a href="mailto:ifannn502@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red](https://skillicons.dev/icons?i=gmail&theme=dark&perline=15" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/fanmsz65">
     <img src="https://img.icons8.com/?size=52&id=nj0Uj45LGUYh&format=png" alt="Instagram Logo" />
