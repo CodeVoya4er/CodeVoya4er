@@ -9,14 +9,17 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Docker, Supabase**
+🌱 I'm focusing on **honing my skills in information technology**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Interesting facts **I love exploring new technologies and learning about them**
 
  </div>
  
 <div align="center">
   <a href="mailto:ifannn502@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/BEN00262/whatsapp-embed-icon/icons/wa.svg" />
+  </a>
+<a href="https://wa.me/6285217234457">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.instagram.com/fanmsz65">
